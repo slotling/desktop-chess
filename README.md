@@ -1,5 +1,5 @@
 # Desktop Chess
-
+[YouTube video!](https://youtu.be/fsC_hRBJo9c)
 
 Downloading and playing isn't the best idea (the game is meant to be watched)<br>
 The program is buggy (and it's too machine dependent) and time-consuming to setup
